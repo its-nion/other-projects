@@ -3,6 +3,7 @@
 ## SpaceSim
 
 >Made with Vektoria Engine (c++) by Tobias Breiner
+>
 >Game by Lukas Olesch
 
 https://www.youtube.com/watch?v=z2ZOfTSuLyY
@@ -10,6 +11,7 @@ https://www.youtube.com/watch?v=z2ZOfTSuLyY
 ## Bowling Game
 
 >Made with DSG Engine (QT, c++, GLSL) by Bernd Dreier
+>
 >Game by Lukas Olesch and Philip Wiest
 
 https://www.youtube.com/watch?v=DM_2tEVowVs
