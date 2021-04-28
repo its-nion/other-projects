@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=z2ZOfTSuLyY
 
 ## Bowling Game
 
->Made with DSG Engine (QT, c++, GLSL) by Bernd Dreier
+>Made with DSG Framework (QT, c++, GLSL) by Bernd Dreier
 >
 >Game by Lukas Olesch and Philip Wiest
 
