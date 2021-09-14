@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=DM_2tEVowVs
 >
 >Game by Lukas Olesch
 
-<img src="https://github.com/necsii/other-projects/Media/planey_preview.gif" />
+[![Watch the video](Media/planey_preview.gif)]
